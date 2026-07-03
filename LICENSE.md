@@ -1,4 +1,4 @@
-# 
+# Nativo JetBrains IntelliJ IDEA temas para Mac OS | Inteligente JetBrains IntelliJ IDEA temas para PC Windows. Com monitoramento de API e navegador de registro — otimizado para máximo desempenho em cada plataforma.
 
 
 
